@@ -1,0 +1,196 @@
+[2024-02-25 20:33:27,982] {processor.py:153} INFO - Started process (PID=1957133) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:33:27,982] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:33:27,983] {logging_mixin.py:115} INFO - [2024-02-25 20:33:27,983] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:33:27,989] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:33:28,022] {logging_mixin.py:115} INFO - [2024-02-25 20:33:28,022] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:33:28,035] {logging_mixin.py:115} INFO - [2024-02-25 20:33:28,035] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-23T00:00:00+00:00, run_after=2024-02-24T00:00:00+00:00
+[2024-02-25 20:33:28,047] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.067 seconds
+[2024-02-25 20:34:10,408] {processor.py:153} INFO - Started process (PID=1957603) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:34:10,409] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:34:10,409] {logging_mixin.py:115} INFO - [2024-02-25 20:34:10,409] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:34:10,419] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:34:10,438] {logging_mixin.py:115} INFO - [2024-02-25 20:34:10,438] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:34:10,456] {logging_mixin.py:115} INFO - [2024-02-25 20:34:10,455] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:34:10,471] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.067 seconds
+[2024-02-25 20:34:42,994] {processor.py:153} INFO - Started process (PID=1958010) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:34:42,999] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:34:43,000] {logging_mixin.py:115} INFO - [2024-02-25 20:34:43,000] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:34:43,005] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:34:43,016] {logging_mixin.py:115} INFO - [2024-02-25 20:34:43,016] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:34:43,030] {logging_mixin.py:115} INFO - [2024-02-25 20:34:43,030] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:34:43,043] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.051 seconds
+[2024-02-25 20:35:17,480] {processor.py:153} INFO - Started process (PID=1958351) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:35:17,482] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:35:17,483] {logging_mixin.py:115} INFO - [2024-02-25 20:35:17,483] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:35:17,500] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:35:17,515] {logging_mixin.py:115} INFO - [2024-02-25 20:35:17,515] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:35:17,530] {logging_mixin.py:115} INFO - [2024-02-25 20:35:17,530] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:35:17,542] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.068 seconds
+[2024-02-25 20:35:52,535] {processor.py:153} INFO - Started process (PID=1958710) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:35:52,541] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:35:52,543] {logging_mixin.py:115} INFO - [2024-02-25 20:35:52,542] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:35:52,562] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:35:52,583] {logging_mixin.py:115} INFO - [2024-02-25 20:35:52,583] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:35:52,599] {logging_mixin.py:115} INFO - [2024-02-25 20:35:52,599] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:35:52,612] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.079 seconds
+[2024-02-25 20:36:26,513] {processor.py:153} INFO - Started process (PID=1959060) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:36:26,514] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:36:26,514] {logging_mixin.py:115} INFO - [2024-02-25 20:36:26,514] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:36:26,527] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:36:26,547] {logging_mixin.py:115} INFO - [2024-02-25 20:36:26,547] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:36:26,562] {logging_mixin.py:115} INFO - [2024-02-25 20:36:26,562] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:36:26,573] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.064 seconds
+[2024-02-25 20:37:03,379] {processor.py:153} INFO - Started process (PID=1959474) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:37:03,385] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:37:03,387] {logging_mixin.py:115} INFO - [2024-02-25 20:37:03,386] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:37:03,404] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:37:03,425] {logging_mixin.py:115} INFO - [2024-02-25 20:37:03,425] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:37:03,441] {logging_mixin.py:115} INFO - [2024-02-25 20:37:03,441] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:37:03,453] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.078 seconds
+[2024-02-25 20:37:34,279] {processor.py:153} INFO - Started process (PID=1959785) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:37:34,280] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:37:34,281] {logging_mixin.py:115} INFO - [2024-02-25 20:37:34,281] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:37:34,300] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:37:34,318] {logging_mixin.py:115} INFO - [2024-02-25 20:37:34,317] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:37:34,333] {logging_mixin.py:115} INFO - [2024-02-25 20:37:34,333] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:37:34,344] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.072 seconds
+[2024-02-25 20:38:08,711] {processor.py:153} INFO - Started process (PID=1960138) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:38:08,717] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:38:08,718] {logging_mixin.py:115} INFO - [2024-02-25 20:38:08,718] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:38:08,738] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:38:08,759] {logging_mixin.py:115} INFO - [2024-02-25 20:38:08,759] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:38:08,775] {logging_mixin.py:115} INFO - [2024-02-25 20:38:08,775] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:38:08,786] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.077 seconds
+[2024-02-25 20:38:43,777] {processor.py:153} INFO - Started process (PID=1960501) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:38:43,783] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:38:43,785] {logging_mixin.py:115} INFO - [2024-02-25 20:38:43,784] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:38:43,800] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:38:43,817] {logging_mixin.py:115} INFO - [2024-02-25 20:38:43,816] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:38:43,831] {logging_mixin.py:115} INFO - [2024-02-25 20:38:43,831] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:38:43,842] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.071 seconds
+[2024-02-25 20:39:16,692] {processor.py:153} INFO - Started process (PID=1960832) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:39:16,693] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:39:16,694] {logging_mixin.py:115} INFO - [2024-02-25 20:39:16,694] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:39:16,713] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:39:16,730] {logging_mixin.py:115} INFO - [2024-02-25 20:39:16,730] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:39:16,745] {logging_mixin.py:115} INFO - [2024-02-25 20:39:16,745] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:39:16,763] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.077 seconds
+[2024-02-25 20:39:49,342] {processor.py:153} INFO - Started process (PID=1961176) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:39:49,343] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:39:49,343] {logging_mixin.py:115} INFO - [2024-02-25 20:39:49,343] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:39:49,352] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:39:49,366] {logging_mixin.py:115} INFO - [2024-02-25 20:39:49,366] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:39:49,380] {logging_mixin.py:115} INFO - [2024-02-25 20:39:49,380] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:39:49,391] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.052 seconds
+[2024-02-25 20:40:24,203] {processor.py:153} INFO - Started process (PID=1961538) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:40:24,209] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:40:24,210] {logging_mixin.py:115} INFO - [2024-02-25 20:40:24,210] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:40:24,229] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:40:24,250] {logging_mixin.py:115} INFO - [2024-02-25 20:40:24,250] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:40:24,265] {logging_mixin.py:115} INFO - [2024-02-25 20:40:24,265] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:40:24,283] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.087 seconds
+[2024-02-25 20:40:55,093] {processor.py:153} INFO - Started process (PID=1961847) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:40:55,094] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:40:55,095] {logging_mixin.py:115} INFO - [2024-02-25 20:40:55,094] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:40:55,104] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:40:55,124] {logging_mixin.py:115} INFO - [2024-02-25 20:40:55,124] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:40:55,141] {logging_mixin.py:115} INFO - [2024-02-25 20:40:55,140] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:40:55,153] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.063 seconds
+[2024-02-25 20:41:25,601] {processor.py:153} INFO - Started process (PID=1962165) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:41:25,606] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:41:25,607] {logging_mixin.py:115} INFO - [2024-02-25 20:41:25,607] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:41:25,615] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:41:25,633] {logging_mixin.py:115} INFO - [2024-02-25 20:41:25,633] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:41:25,651] {logging_mixin.py:115} INFO - [2024-02-25 20:41:25,651] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:41:25,664] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.065 seconds
+[2024-02-25 20:41:55,952] {processor.py:153} INFO - Started process (PID=1962503) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:41:55,954] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:41:55,955] {logging_mixin.py:115} INFO - [2024-02-25 20:41:55,954] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:41:55,973] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:41:55,990] {logging_mixin.py:115} INFO - [2024-02-25 20:41:55,990] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:41:56,006] {logging_mixin.py:115} INFO - [2024-02-25 20:41:56,006] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:41:56,018] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.073 seconds
+[2024-02-25 20:42:27,586] {processor.py:153} INFO - Started process (PID=1962826) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:42:27,593] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:42:27,594] {logging_mixin.py:115} INFO - [2024-02-25 20:42:27,594] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:42:27,618] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:42:27,635] {logging_mixin.py:115} INFO - [2024-02-25 20:42:27,635] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:42:27,650] {logging_mixin.py:115} INFO - [2024-02-25 20:42:27,650] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:42:27,663] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.084 seconds
+[2024-02-25 20:43:01,318] {processor.py:153} INFO - Started process (PID=1963176) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:43:01,325] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:43:01,326] {logging_mixin.py:115} INFO - [2024-02-25 20:43:01,326] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:43:01,343] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:43:01,360] {logging_mixin.py:115} INFO - [2024-02-25 20:43:01,360] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:43:01,375] {logging_mixin.py:115} INFO - [2024-02-25 20:43:01,374] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:43:01,387] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.075 seconds
+[2024-02-25 20:43:32,713] {processor.py:153} INFO - Started process (PID=1963489) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:43:32,717] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:43:32,717] {logging_mixin.py:115} INFO - [2024-02-25 20:43:32,717] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:43:32,725] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:43:32,739] {logging_mixin.py:115} INFO - [2024-02-25 20:43:32,739] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:43:32,756] {logging_mixin.py:115} INFO - [2024-02-25 20:43:32,756] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:43:32,768] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.057 seconds
+[2024-02-25 20:44:04,482] {processor.py:153} INFO - Started process (PID=1963823) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:44:04,488] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:44:04,490] {logging_mixin.py:115} INFO - [2024-02-25 20:44:04,489] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:44:04,509] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:44:04,526] {logging_mixin.py:115} INFO - [2024-02-25 20:44:04,526] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:44:04,541] {logging_mixin.py:115} INFO - [2024-02-25 20:44:04,541] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:44:04,558] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.082 seconds
+[2024-02-25 20:44:40,903] {processor.py:153} INFO - Started process (PID=1964195) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:44:40,909] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:44:40,911] {logging_mixin.py:115} INFO - [2024-02-25 20:44:40,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:44:40,930] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:44:40,952] {logging_mixin.py:115} INFO - [2024-02-25 20:44:40,952] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:44:40,968] {logging_mixin.py:115} INFO - [2024-02-25 20:44:40,968] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:44:40,979] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.083 seconds
+[2024-02-25 20:45:15,368] {processor.py:153} INFO - Started process (PID=1964550) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:45:15,374] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:45:15,374] {logging_mixin.py:115} INFO - [2024-02-25 20:45:15,374] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:45:15,382] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:45:15,394] {logging_mixin.py:115} INFO - [2024-02-25 20:45:15,394] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:45:15,412] {logging_mixin.py:115} INFO - [2024-02-25 20:45:15,412] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:45:15,426] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.062 seconds
+[2024-02-25 20:45:49,444] {processor.py:153} INFO - Started process (PID=1964904) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:45:49,449] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:45:49,450] {logging_mixin.py:115} INFO - [2024-02-25 20:45:49,450] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:45:49,456] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:45:49,468] {logging_mixin.py:115} INFO - [2024-02-25 20:45:49,468] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:45:49,483] {logging_mixin.py:115} INFO - [2024-02-25 20:45:49,483] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:45:49,496] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.054 seconds
+[2024-02-25 20:46:23,771] {processor.py:153} INFO - Started process (PID=1965259) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:46:23,772] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:46:23,773] {logging_mixin.py:115} INFO - [2024-02-25 20:46:23,773] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:46:23,790] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:46:23,806] {logging_mixin.py:115} INFO - [2024-02-25 20:46:23,806] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:46:23,821] {logging_mixin.py:115} INFO - [2024-02-25 20:46:23,821] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:46:23,834] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.070 seconds
+[2024-02-25 20:46:57,897] {processor.py:153} INFO - Started process (PID=1965648) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:46:57,899] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:46:57,900] {logging_mixin.py:115} INFO - [2024-02-25 20:46:57,900] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:46:57,913] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:46:57,927] {logging_mixin.py:115} INFO - [2024-02-25 20:46:57,927] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:46:57,944] {logging_mixin.py:115} INFO - [2024-02-25 20:46:57,943] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:46:57,963] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.073 seconds
+[2024-02-25 20:47:29,365] {processor.py:153} INFO - Started process (PID=1966132) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:47:29,366] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:47:29,368] {logging_mixin.py:115} INFO - [2024-02-25 20:47:29,367] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:47:29,383] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:47:29,398] {logging_mixin.py:115} INFO - [2024-02-25 20:47:29,398] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:47:29,414] {logging_mixin.py:115} INFO - [2024-02-25 20:47:29,414] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:47:29,425] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.067 seconds
+[2024-02-25 20:48:04,474] {processor.py:153} INFO - Started process (PID=1966664) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:48:04,479] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:48:04,480] {logging_mixin.py:115} INFO - [2024-02-25 20:48:04,479] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:48:04,484] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:48:04,492] {logging_mixin.py:115} INFO - [2024-02-25 20:48:04,492] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:48:04,506] {logging_mixin.py:115} INFO - [2024-02-25 20:48:04,505] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:48:04,519] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.046 seconds
+[2024-02-25 20:48:38,305] {processor.py:153} INFO - Started process (PID=1967118) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:48:38,306] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2024-02-25 20:48:38,307] {logging_mixin.py:115} INFO - [2024-02-25 20:48:38,307] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:48:38,313] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py
+[2024-02-25 20:48:38,327] {logging_mixin.py:115} INFO - [2024-02-25 20:48:38,326] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:48:38,341] {logging_mixin.py:115} INFO - [2024-02-25 20:48:38,341] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:48:38,352] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/meu_primeiro_dag.py took 0.049 seconds

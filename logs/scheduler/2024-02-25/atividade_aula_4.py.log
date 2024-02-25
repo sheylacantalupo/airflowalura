@@ -1,0 +1,189 @@
+[2024-02-25 20:33:31,553] {processor.py:153} INFO - Started process (PID=1957180) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:33:31,554] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:33:31,554] {logging_mixin.py:115} INFO - [2024-02-25 20:33:31,554] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:33:31,561] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:33:31,591] {logging_mixin.py:115} INFO - [2024-02-25 20:33:31,591] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:33:31,601] {logging_mixin.py:115} INFO - [2024-02-25 20:33:31,601] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-24T00:00:00+00:00, run_after=2024-02-25T00:00:00+00:00
+[2024-02-25 20:33:31,624] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.073 seconds
+[2024-02-25 20:34:11,564] {processor.py:153} INFO - Started process (PID=1957612) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:34:11,566] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:34:11,567] {logging_mixin.py:115} INFO - [2024-02-25 20:34:11,567] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:34:11,584] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:34:11,599] {logging_mixin.py:115} INFO - [2024-02-25 20:34:11,599] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:34:11,615] {logging_mixin.py:115} INFO - [2024-02-25 20:34:11,615] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:34:11,631] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.073 seconds
+[2024-02-25 20:34:44,146] {processor.py:153} INFO - Started process (PID=1958019) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:34:44,147] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:34:44,148] {logging_mixin.py:115} INFO - [2024-02-25 20:34:44,148] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:34:44,167] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:34:44,183] {logging_mixin.py:115} INFO - [2024-02-25 20:34:44,183] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:34:44,199] {logging_mixin.py:115} INFO - [2024-02-25 20:34:44,198] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:34:44,211] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.072 seconds
+[2024-02-25 20:35:18,609] {processor.py:153} INFO - Started process (PID=1958368) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:35:18,615] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:35:18,615] {logging_mixin.py:115} INFO - [2024-02-25 20:35:18,615] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:35:18,623] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:35:18,637] {logging_mixin.py:115} INFO - [2024-02-25 20:35:18,637] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:35:18,654] {logging_mixin.py:115} INFO - [2024-02-25 20:35:18,654] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:35:18,674] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.067 seconds
+[2024-02-25 20:35:53,668] {processor.py:153} INFO - Started process (PID=1958728) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:35:53,674] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:35:53,675] {logging_mixin.py:115} INFO - [2024-02-25 20:35:53,675] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:35:53,695] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:35:53,715] {logging_mixin.py:115} INFO - [2024-02-25 20:35:53,715] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:35:53,731] {logging_mixin.py:115} INFO - [2024-02-25 20:35:53,730] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:35:53,745] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.079 seconds
+[2024-02-25 20:36:27,473] {processor.py:153} INFO - Started process (PID=1959069) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:36:27,474] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:36:27,475] {logging_mixin.py:115} INFO - [2024-02-25 20:36:27,475] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:36:27,493] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:36:27,508] {logging_mixin.py:115} INFO - [2024-02-25 20:36:27,508] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:36:27,523] {logging_mixin.py:115} INFO - [2024-02-25 20:36:27,523] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:36:27,535] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.068 seconds
+[2024-02-25 20:37:03,533] {processor.py:153} INFO - Started process (PID=1959475) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:37:03,534] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:37:03,536] {logging_mixin.py:115} INFO - [2024-02-25 20:37:03,536] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:37:03,556] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:37:03,577] {logging_mixin.py:115} INFO - [2024-02-25 20:37:03,577] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:37:03,593] {logging_mixin.py:115} INFO - [2024-02-25 20:37:03,593] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:37:03,604] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.078 seconds
+[2024-02-25 20:37:35,410] {processor.py:153} INFO - Started process (PID=1959795) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:37:35,411] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:37:35,412] {logging_mixin.py:115} INFO - [2024-02-25 20:37:35,411] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:37:35,422] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:37:35,441] {logging_mixin.py:115} INFO - [2024-02-25 20:37:35,441] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:37:35,459] {logging_mixin.py:115} INFO - [2024-02-25 20:37:35,459] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:37:35,470] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.063 seconds
+[2024-02-25 20:38:09,642] {processor.py:153} INFO - Started process (PID=1960147) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:38:09,643] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:38:09,644] {logging_mixin.py:115} INFO - [2024-02-25 20:38:09,644] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:38:09,662] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:38:09,677] {logging_mixin.py:115} INFO - [2024-02-25 20:38:09,677] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:38:09,692] {logging_mixin.py:115} INFO - [2024-02-25 20:38:09,692] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:38:09,704] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.069 seconds
+[2024-02-25 20:38:44,907] {processor.py:153} INFO - Started process (PID=1960510) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:38:44,908] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:38:44,909] {logging_mixin.py:115} INFO - [2024-02-25 20:38:44,909] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:38:44,918] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:38:44,930] {logging_mixin.py:115} INFO - [2024-02-25 20:38:44,930] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:38:44,945] {logging_mixin.py:115} INFO - [2024-02-25 20:38:44,945] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:38:44,962] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.059 seconds
+[2024-02-25 20:39:17,290] {processor.py:153} INFO - Started process (PID=1960837) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:39:17,291] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:39:17,293] {logging_mixin.py:115} INFO - [2024-02-25 20:39:17,292] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:39:17,309] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:39:17,328] {logging_mixin.py:115} INFO - [2024-02-25 20:39:17,328] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:39:17,343] {logging_mixin.py:115} INFO - [2024-02-25 20:39:17,343] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:39:17,354] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.070 seconds
+[2024-02-25 20:39:50,468] {processor.py:153} INFO - Started process (PID=1961186) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:39:50,474] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:39:50,474] {logging_mixin.py:115} INFO - [2024-02-25 20:39:50,474] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:39:50,482] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:39:50,498] {logging_mixin.py:115} INFO - [2024-02-25 20:39:50,498] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:39:50,514] {logging_mixin.py:115} INFO - [2024-02-25 20:39:50,514] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:39:50,525] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.059 seconds
+[2024-02-25 20:40:25,345] {processor.py:153} INFO - Started process (PID=1961548) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:40:25,347] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:40:25,348] {logging_mixin.py:115} INFO - [2024-02-25 20:40:25,348] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:40:25,366] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:40:25,383] {logging_mixin.py:115} INFO - [2024-02-25 20:40:25,383] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:40:25,398] {logging_mixin.py:115} INFO - [2024-02-25 20:40:25,398] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:40:25,410] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.071 seconds
+[2024-02-25 20:41:03,005] {processor.py:153} INFO - Started process (PID=1961937) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:41:03,011] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:41:03,011] {logging_mixin.py:115} INFO - [2024-02-25 20:41:03,011] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:41:03,017] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:41:03,030] {logging_mixin.py:115} INFO - [2024-02-25 20:41:03,030] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:41:03,043] {logging_mixin.py:115} INFO - [2024-02-25 20:41:03,043] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:41:03,057] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.054 seconds
+[2024-02-25 20:41:38,424] {processor.py:153} INFO - Started process (PID=1962328) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:41:38,429] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:41:38,430] {logging_mixin.py:115} INFO - [2024-02-25 20:41:38,430] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:41:38,448] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:41:38,464] {logging_mixin.py:115} INFO - [2024-02-25 20:41:38,464] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:41:38,480] {logging_mixin.py:115} INFO - [2024-02-25 20:41:38,480] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:41:38,496] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.079 seconds
+[2024-02-25 20:42:12,161] {processor.py:153} INFO - Started process (PID=1962668) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:42:12,162] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:42:12,163] {logging_mixin.py:115} INFO - [2024-02-25 20:42:12,163] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:42:12,181] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:42:12,196] {logging_mixin.py:115} INFO - [2024-02-25 20:42:12,196] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:42:12,211] {logging_mixin.py:115} INFO - [2024-02-25 20:42:12,211] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:42:12,223] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.069 seconds
+[2024-02-25 20:42:47,291] {processor.py:153} INFO - Started process (PID=1963029) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:42:47,297] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:42:47,299] {logging_mixin.py:115} INFO - [2024-02-25 20:42:47,298] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:42:47,318] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:42:47,336] {logging_mixin.py:115} INFO - [2024-02-25 20:42:47,336] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:42:47,351] {logging_mixin.py:115} INFO - [2024-02-25 20:42:47,351] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:42:47,362] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.078 seconds
+[2024-02-25 20:43:20,108] {processor.py:153} INFO - Started process (PID=1963365) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:43:20,110] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:43:20,111] {logging_mixin.py:115} INFO - [2024-02-25 20:43:20,111] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:43:20,130] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:43:20,147] {logging_mixin.py:115} INFO - [2024-02-25 20:43:20,147] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:43:20,164] {logging_mixin.py:115} INFO - [2024-02-25 20:43:20,164] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:43:20,183] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.081 seconds
+[2024-02-25 20:43:52,202] {processor.py:153} INFO - Started process (PID=1963693) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:43:52,203] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:43:52,205] {logging_mixin.py:115} INFO - [2024-02-25 20:43:52,205] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:43:52,217] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:43:52,229] {logging_mixin.py:115} INFO - [2024-02-25 20:43:52,229] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:43:52,244] {logging_mixin.py:115} INFO - [2024-02-25 20:43:52,244] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:43:52,256] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.060 seconds
+[2024-02-25 20:44:25,904] {processor.py:153} INFO - Started process (PID=1964040) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:44:25,909] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:44:25,910] {logging_mixin.py:115} INFO - [2024-02-25 20:44:25,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:44:25,918] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:44:25,933] {logging_mixin.py:115} INFO - [2024-02-25 20:44:25,932] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:44:25,951] {logging_mixin.py:115} INFO - [2024-02-25 20:44:25,951] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:44:25,964] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.062 seconds
+[2024-02-25 20:44:56,803] {processor.py:153} INFO - Started process (PID=1964355) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:44:56,804] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:44:56,805] {logging_mixin.py:115} INFO - [2024-02-25 20:44:56,805] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:44:56,818] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:44:56,835] {logging_mixin.py:115} INFO - [2024-02-25 20:44:56,835] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:44:56,851] {logging_mixin.py:115} INFO - [2024-02-25 20:44:56,851] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:44:56,863] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.065 seconds
+[2024-02-25 20:45:30,031] {processor.py:153} INFO - Started process (PID=1964705) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:45:30,037] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:45:30,038] {logging_mixin.py:115} INFO - [2024-02-25 20:45:30,038] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:45:30,053] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:45:30,071] {logging_mixin.py:115} INFO - [2024-02-25 20:45:30,071] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:45:30,086] {logging_mixin.py:115} INFO - [2024-02-25 20:45:30,086] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:45:30,099] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.073 seconds
+[2024-02-25 20:46:04,886] {processor.py:153} INFO - Started process (PID=1965060) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:46:04,892] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:46:04,893] {logging_mixin.py:115} INFO - [2024-02-25 20:46:04,893] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:46:04,913] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:46:04,929] {logging_mixin.py:115} INFO - [2024-02-25 20:46:04,929] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:46:04,944] {logging_mixin.py:115} INFO - [2024-02-25 20:46:04,944] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:46:05,009] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.130 seconds
+[2024-02-25 20:46:35,861] {processor.py:153} INFO - Started process (PID=1965401) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:46:35,863] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:46:35,864] {logging_mixin.py:115} INFO - [2024-02-25 20:46:35,864] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:46:35,876] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:46:35,896] {logging_mixin.py:115} INFO - [2024-02-25 20:46:35,896] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:46:35,913] {logging_mixin.py:115} INFO - [2024-02-25 20:46:35,913] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:46:35,925] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.068 seconds
+[2024-02-25 20:47:10,222] {processor.py:153} INFO - Started process (PID=1965827) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:47:10,228] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:47:10,228] {logging_mixin.py:115} INFO - [2024-02-25 20:47:10,228] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:47:10,237] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:47:10,254] {logging_mixin.py:115} INFO - [2024-02-25 20:47:10,254] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:47:10,271] {logging_mixin.py:115} INFO - [2024-02-25 20:47:10,271] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:47:10,283] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.063 seconds
+[2024-02-25 20:47:43,865] {processor.py:153} INFO - Started process (PID=1966354) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:47:43,871] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:47:43,871] {logging_mixin.py:115} INFO - [2024-02-25 20:47:43,871] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:47:43,879] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:47:43,894] {logging_mixin.py:115} INFO - [2024-02-25 20:47:43,894] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:47:43,910] {logging_mixin.py:115} INFO - [2024-02-25 20:47:43,910] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:47:43,923] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.060 seconds
+[2024-02-25 20:48:14,753] {processor.py:153} INFO - Started process (PID=1966821) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:48:14,756] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-02-25 20:48:14,756] {logging_mixin.py:115} INFO - [2024-02-25 20:48:14,756] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:48:14,764] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py
+[2024-02-25 20:48:14,779] {logging_mixin.py:115} INFO - [2024-02-25 20:48:14,779] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:48:14,795] {logging_mixin.py:115} INFO - [2024-02-25 20:48:14,795] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-02-25T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-02-25 20:48:14,807] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/atividade_aula_4.py took 0.057 seconds

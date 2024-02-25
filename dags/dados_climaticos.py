@@ -10,6 +10,7 @@ with DAG(
         "dados_climaticos",
         start_date=pendulum.datetime(2022, 8, 22, tz="UTC"),
         schedule_interval='0 0 * * 1', # executar toda segunda feira
+        # testar outros tipos 
     ) as dag:
 
     tarefa_1 = BashOperator(

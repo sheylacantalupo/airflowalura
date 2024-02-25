@@ -1,0 +1,189 @@
+[2024-02-25 20:33:33,871] {processor.py:153} INFO - Started process (PID=1957217) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:33:33,871] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:33:33,871] {logging_mixin.py:115} INFO - [2024-02-25 20:33:33,871] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:33:33,876] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:33:33,889] {logging_mixin.py:115} INFO - [2024-02-25 20:33:33,889] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:33:33,904] {logging_mixin.py:115} INFO - [2024-02-25 20:33:33,904] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:33:33.903886+00:00, run_after=2024-02-25T23:33:33.903886+00:00
+[2024-02-25 20:33:33,930] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2024-02-25 20:34:12,696] {processor.py:153} INFO - Started process (PID=1957621) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:34:12,697] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:34:12,698] {logging_mixin.py:115} INFO - [2024-02-25 20:34:12,698] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:34:12,712] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:34:12,731] {logging_mixin.py:115} INFO - [2024-02-25 20:34:12,731] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:34:12,746] {logging_mixin.py:115} INFO - [2024-02-25 20:34:12,746] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:34:12.745872+00:00, run_after=2024-02-25T23:34:12.745872+00:00
+[2024-02-25 20:34:12,769] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.080 seconds
+[2024-02-25 20:34:49,386] {processor.py:153} INFO - Started process (PID=1958071) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:34:49,393] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:34:49,394] {logging_mixin.py:115} INFO - [2024-02-25 20:34:49,394] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:34:49,408] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:34:49,430] {logging_mixin.py:115} INFO - [2024-02-25 20:34:49,430] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:34:49,446] {logging_mixin.py:115} INFO - [2024-02-25 20:34:49,445] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:34:49.445783+00:00, run_after=2024-02-25T23:34:49.445783+00:00
+[2024-02-25 20:34:49,460] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.080 seconds
+[2024-02-25 20:35:22,754] {processor.py:153} INFO - Started process (PID=1958404) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:35:22,760] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:35:22,762] {logging_mixin.py:115} INFO - [2024-02-25 20:35:22,761] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:35:22,775] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:35:22,795] {logging_mixin.py:115} INFO - [2024-02-25 20:35:22,795] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:35:22,809] {logging_mixin.py:115} INFO - [2024-02-25 20:35:22,809] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:35:22.809679+00:00, run_after=2024-02-25T23:35:22.809679+00:00
+[2024-02-25 20:35:22,824] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2024-02-25 20:35:57,990] {processor.py:153} INFO - Started process (PID=1958776) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:35:57,990] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:35:57,991] {logging_mixin.py:115} INFO - [2024-02-25 20:35:57,991] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:35:57,994] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:35:58,004] {logging_mixin.py:115} INFO - [2024-02-25 20:35:58,004] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:35:58,017] {logging_mixin.py:115} INFO - [2024-02-25 20:35:58,017] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:35:58.017693+00:00, run_after=2024-02-25T23:35:58.017693+00:00
+[2024-02-25 20:35:58,030] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.042 seconds
+[2024-02-25 20:36:32,617] {processor.py:153} INFO - Started process (PID=1959145) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:36:32,623] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:36:32,624] {logging_mixin.py:115} INFO - [2024-02-25 20:36:32,624] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:36:32,638] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:36:32,659] {logging_mixin.py:115} INFO - [2024-02-25 20:36:32,659] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:36:32,675] {logging_mixin.py:115} INFO - [2024-02-25 20:36:32,675] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:36:32.674827+00:00, run_after=2024-02-25T23:36:32.674827+00:00
+[2024-02-25 20:36:32,687] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2024-02-25 20:37:04,677] {processor.py:153} INFO - Started process (PID=1959485) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:37:04,678] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:37:04,680] {logging_mixin.py:115} INFO - [2024-02-25 20:37:04,679] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:37:04,693] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:37:04,713] {logging_mixin.py:115} INFO - [2024-02-25 20:37:04,713] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:37:04,729] {logging_mixin.py:115} INFO - [2024-02-25 20:37:04,729] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:37:04.729232+00:00, run_after=2024-02-25T23:37:04.729232+00:00
+[2024-02-25 20:37:04,747] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2024-02-25 20:37:40,582] {processor.py:153} INFO - Started process (PID=1959847) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:37:40,583] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:37:40,583] {logging_mixin.py:115} INFO - [2024-02-25 20:37:40,583] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:37:40,587] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:37:40,599] {logging_mixin.py:115} INFO - [2024-02-25 20:37:40,599] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:37:40,614] {logging_mixin.py:115} INFO - [2024-02-25 20:37:40,614] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:37:40.614453+00:00, run_after=2024-02-25T23:37:40.614453+00:00
+[2024-02-25 20:37:40,626] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.046 seconds
+[2024-02-25 20:38:13,502] {processor.py:153} INFO - Started process (PID=1960189) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:38:13,504] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:38:13,505] {logging_mixin.py:115} INFO - [2024-02-25 20:38:13,505] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:38:13,509] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:38:13,524] {logging_mixin.py:115} INFO - [2024-02-25 20:38:13,524] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:38:13,539] {logging_mixin.py:115} INFO - [2024-02-25 20:38:13,539] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:38:13.539442+00:00, run_after=2024-02-25T23:38:13.539442+00:00
+[2024-02-25 20:38:13,551] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.052 seconds
+[2024-02-25 20:38:46,044] {processor.py:153} INFO - Started process (PID=1960519) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:38:46,050] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:38:46,051] {logging_mixin.py:115} INFO - [2024-02-25 20:38:46,051] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:38:46,066] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:38:46,085] {logging_mixin.py:115} INFO - [2024-02-25 20:38:46,085] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:38:46,099] {logging_mixin.py:115} INFO - [2024-02-25 20:38:46,099] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:38:46.099416+00:00, run_after=2024-02-25T23:38:46.099416+00:00
+[2024-02-25 20:38:46,119] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.082 seconds
+[2024-02-25 20:39:18,438] {processor.py:153} INFO - Started process (PID=1960858) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:39:18,439] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:39:18,440] {logging_mixin.py:115} INFO - [2024-02-25 20:39:18,440] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:39:18,453] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:39:18,470] {logging_mixin.py:115} INFO - [2024-02-25 20:39:18,470] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:39:18,486] {logging_mixin.py:115} INFO - [2024-02-25 20:39:18,486] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:39:18.485850+00:00, run_after=2024-02-25T23:39:18.485850+00:00
+[2024-02-25 20:39:18,504] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2024-02-25 20:39:50,955] {processor.py:153} INFO - Started process (PID=1961187) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:39:50,961] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:39:50,961] {logging_mixin.py:115} INFO - [2024-02-25 20:39:50,961] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:39:50,968] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:39:50,989] {logging_mixin.py:115} INFO - [2024-02-25 20:39:50,989] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:39:51,009] {logging_mixin.py:115} INFO - [2024-02-25 20:39:51,009] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:39:51.009010+00:00, run_after=2024-02-25T23:39:51.009010+00:00
+[2024-02-25 20:39:51,021] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.068 seconds
+[2024-02-25 20:40:26,479] {processor.py:153} INFO - Started process (PID=1961557) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:40:26,485] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:40:26,486] {logging_mixin.py:115} INFO - [2024-02-25 20:40:26,486] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:40:26,499] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:40:26,521] {logging_mixin.py:115} INFO - [2024-02-25 20:40:26,521] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:40:26,535] {logging_mixin.py:115} INFO - [2024-02-25 20:40:26,535] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:40:26.535672+00:00, run_after=2024-02-25T23:40:26.535672+00:00
+[2024-02-25 20:40:26,548] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2024-02-25 20:41:04,145] {processor.py:153} INFO - Started process (PID=1961945) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:41:04,150] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:41:04,151] {logging_mixin.py:115} INFO - [2024-02-25 20:41:04,151] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:41:04,156] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:41:04,172] {logging_mixin.py:115} INFO - [2024-02-25 20:41:04,172] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:41:04,188] {logging_mixin.py:115} INFO - [2024-02-25 20:41:04,188] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:41:04.188245+00:00, run_after=2024-02-25T23:41:04.188245+00:00
+[2024-02-25 20:41:04,207] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2024-02-25 20:41:39,558] {processor.py:153} INFO - Started process (PID=1962337) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:41:39,564] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:41:39,566] {logging_mixin.py:115} INFO - [2024-02-25 20:41:39,565] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:41:39,579] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:41:39,603] {logging_mixin.py:115} INFO - [2024-02-25 20:41:39,603] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:41:39,619] {logging_mixin.py:115} INFO - [2024-02-25 20:41:39,618] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:41:39.618785+00:00, run_after=2024-02-25T23:41:39.618785+00:00
+[2024-02-25 20:41:39,632] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-02-25 20:42:12,965] {processor.py:153} INFO - Started process (PID=1962686) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:42:12,966] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:42:12,967] {logging_mixin.py:115} INFO - [2024-02-25 20:42:12,967] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:42:12,980] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:42:12,999] {logging_mixin.py:115} INFO - [2024-02-25 20:42:12,999] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:42:13,015] {logging_mixin.py:115} INFO - [2024-02-25 20:42:13,015] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:42:13.015013+00:00, run_after=2024-02-25T23:42:13.015013+00:00
+[2024-02-25 20:42:13,027] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.068 seconds
+[2024-02-25 20:42:48,064] {processor.py:153} INFO - Started process (PID=1963043) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:42:48,071] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:42:48,072] {logging_mixin.py:115} INFO - [2024-02-25 20:42:48,072] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:42:48,085] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:42:48,106] {logging_mixin.py:115} INFO - [2024-02-25 20:42:48,106] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:42:48,121] {logging_mixin.py:115} INFO - [2024-02-25 20:42:48,121] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:42:48.121156+00:00, run_after=2024-02-25T23:42:48.121156+00:00
+[2024-02-25 20:42:48,140] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.082 seconds
+[2024-02-25 20:43:21,242] {processor.py:153} INFO - Started process (PID=1963374) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:43:21,249] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:43:21,250] {logging_mixin.py:115} INFO - [2024-02-25 20:43:21,250] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:43:21,264] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:43:21,290] {logging_mixin.py:115} INFO - [2024-02-25 20:43:21,290] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:43:21,306] {logging_mixin.py:115} INFO - [2024-02-25 20:43:21,306] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:43:21.306369+00:00, run_after=2024-02-25T23:43:21.306369+00:00
+[2024-02-25 20:43:21,325] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.089 seconds
+[2024-02-25 20:43:53,338] {processor.py:153} INFO - Started process (PID=1963712) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:43:53,344] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:43:53,345] {logging_mixin.py:115} INFO - [2024-02-25 20:43:53,345] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:43:53,360] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:43:53,378] {logging_mixin.py:115} INFO - [2024-02-25 20:43:53,378] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:43:53,393] {logging_mixin.py:115} INFO - [2024-02-25 20:43:53,393] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:43:53.392884+00:00, run_after=2024-02-25T23:43:53.392884+00:00
+[2024-02-25 20:43:53,404] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2024-02-25 20:44:27,070] {processor.py:153} INFO - Started process (PID=1964050) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:44:27,075] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:44:27,076] {logging_mixin.py:115} INFO - [2024-02-25 20:44:27,076] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:44:27,082] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:44:27,096] {logging_mixin.py:115} INFO - [2024-02-25 20:44:27,096] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:44:27,110] {logging_mixin.py:115} INFO - [2024-02-25 20:44:27,109] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:44:27.109825+00:00, run_after=2024-02-25T23:44:27.109825+00:00
+[2024-02-25 20:44:27,124] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.059 seconds
+[2024-02-25 20:45:01,935] {processor.py:153} INFO - Started process (PID=1964410) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:45:01,940] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:45:01,941] {logging_mixin.py:115} INFO - [2024-02-25 20:45:01,941] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:45:01,947] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:45:01,960] {logging_mixin.py:115} INFO - [2024-02-25 20:45:01,960] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:45:01,976] {logging_mixin.py:115} INFO - [2024-02-25 20:45:01,976] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:45:01.976437+00:00, run_after=2024-02-25T23:45:01.976437+00:00
+[2024-02-25 20:45:01,991] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2024-02-25 20:45:36,799] {processor.py:153} INFO - Started process (PID=1964771) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:45:36,805] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:45:36,807] {logging_mixin.py:115} INFO - [2024-02-25 20:45:36,806] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:45:36,821] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:45:36,840] {logging_mixin.py:115} INFO - [2024-02-25 20:45:36,840] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:45:36,855] {logging_mixin.py:115} INFO - [2024-02-25 20:45:36,855] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:45:36.855054+00:00, run_after=2024-02-25T23:45:36.855054+00:00
+[2024-02-25 20:45:36,870] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2024-02-25 20:46:11,174] {processor.py:153} INFO - Started process (PID=1965123) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:46:11,188] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:46:11,188] {logging_mixin.py:115} INFO - [2024-02-25 20:46:11,188] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:46:11,194] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:46:11,210] {logging_mixin.py:115} INFO - [2024-02-25 20:46:11,210] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:46:11,225] {logging_mixin.py:115} INFO - [2024-02-25 20:46:11,224] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:46:11.224753+00:00, run_after=2024-02-25T23:46:11.224753+00:00
+[2024-02-25 20:46:11,238] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.069 seconds
+[2024-02-25 20:46:43,284] {processor.py:153} INFO - Started process (PID=1965478) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:46:43,285] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:46:43,286] {logging_mixin.py:115} INFO - [2024-02-25 20:46:43,286] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:46:43,300] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:46:43,319] {logging_mixin.py:115} INFO - [2024-02-25 20:46:43,319] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:46:43,334] {logging_mixin.py:115} INFO - [2024-02-25 20:46:43,334] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:46:43.333859+00:00, run_after=2024-02-25T23:46:43.333859+00:00
+[2024-02-25 20:46:43,345] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds
+[2024-02-25 20:47:16,137] {processor.py:153} INFO - Started process (PID=1965935) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:47:16,142] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:47:16,143] {logging_mixin.py:115} INFO - [2024-02-25 20:47:16,143] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:47:16,150] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:47:16,164] {logging_mixin.py:115} INFO - [2024-02-25 20:47:16,164] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:47:16,178] {logging_mixin.py:115} INFO - [2024-02-25 20:47:16,178] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:47:16.178398+00:00, run_after=2024-02-25T23:47:16.178398+00:00
+[2024-02-25 20:47:16,192] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2024-02-25 20:47:49,600] {processor.py:153} INFO - Started process (PID=1966439) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:47:49,605] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:47:49,605] {logging_mixin.py:115} INFO - [2024-02-25 20:47:49,605] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:47:49,611] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:47:49,626] {logging_mixin.py:115} INFO - [2024-02-25 20:47:49,626] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:47:49,643] {logging_mixin.py:115} INFO - [2024-02-25 20:47:49,643] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:47:49.643181+00:00, run_after=2024-02-25T23:47:49.643181+00:00
+[2024-02-25 20:47:49,663] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2024-02-25 20:48:19,907] {processor.py:153} INFO - Started process (PID=1966880) to work on /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:48:19,908] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-02-25 20:48:19,909] {logging_mixin.py:115} INFO - [2024-02-25 20:48:19,909] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:48:19,924] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-02-25 20:48:19,943] {logging_mixin.py:115} INFO - [2024-02-25 20:48:19,943] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-02-25 20:48:19,958] {logging_mixin.py:115} INFO - [2024-02-25 20:48:19,958] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-02-24T23:48:19.958317+00:00, run_after=2024-02-25T23:48:19.958317+00:00
+[2024-02-25 20:48:19,970] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.070 seconds

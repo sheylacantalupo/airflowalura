@@ -1,0 +1,392 @@
+[2024-02-25 20:33:24,057] {processor.py:153} INFO - Started process (PID=1957073) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:33:24,058] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:33:24,058] {logging_mixin.py:115} INFO - [2024-02-25 20:33:24,058] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:33:24,065] {logging_mixin.py:115} INFO - [2024-02-25 20:33:24,064] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:33:24,065] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:33:24,076] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.020 seconds
+[2024-02-25 20:34:09,267] {processor.py:153} INFO - Started process (PID=1957594) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:34:09,268] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:34:09,269] {logging_mixin.py:115} INFO - [2024-02-25 20:34:09,269] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:34:09,286] {logging_mixin.py:115} INFO - [2024-02-25 20:34:09,285] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:34:09,287] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:34:09,307] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.047 seconds
+[2024-02-25 20:34:41,845] {processor.py:153} INFO - Started process (PID=1957991) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:34:41,850] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:34:41,851] {logging_mixin.py:115} INFO - [2024-02-25 20:34:41,851] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:34:41,857] {logging_mixin.py:115} INFO - [2024-02-25 20:34:41,857] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:34:41,857] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:34:41,877] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.034 seconds
+[2024-02-25 20:35:16,342] {processor.py:153} INFO - Started process (PID=1958342) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:35:16,348] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:35:16,349] {logging_mixin.py:115} INFO - [2024-02-25 20:35:16,349] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:35:16,367] {logging_mixin.py:115} INFO - [2024-02-25 20:35:16,366] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:35:16,367] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:35:16,393] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.057 seconds
+[2024-02-25 20:35:51,393] {processor.py:153} INFO - Started process (PID=1958700) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:35:51,395] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:35:51,397] {logging_mixin.py:115} INFO - [2024-02-25 20:35:51,396] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:35:51,416] {logging_mixin.py:115} INFO - [2024-02-25 20:35:51,414] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:35:51,417] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:35:51,443] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.056 seconds
+[2024-02-25 20:36:25,383] {processor.py:153} INFO - Started process (PID=1959051) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:36:25,390] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:36:25,391] {logging_mixin.py:115} INFO - [2024-02-25 20:36:25,391] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:36:25,409] {logging_mixin.py:115} INFO - [2024-02-25 20:36:25,408] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:36:25,410] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:36:25,434] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.056 seconds
+[2024-02-25 20:36:55,514] {processor.py:153} INFO - Started process (PID=1959385) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:36:55,517] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:36:55,517] {logging_mixin.py:115} INFO - [2024-02-25 20:36:55,517] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:36:55,523] {logging_mixin.py:115} INFO - [2024-02-25 20:36:55,523] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:36:55,524] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:36:55,542] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.030 seconds
+[2024-02-25 20:37:28,109] {processor.py:153} INFO - Started process (PID=1959725) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:37:28,116] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:37:28,117] {logging_mixin.py:115} INFO - [2024-02-25 20:37:28,117] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:37:28,135] {logging_mixin.py:115} INFO - [2024-02-25 20:37:28,133] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:37:28,135] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:37:28,157] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.054 seconds
+[2024-02-25 20:38:03,569] {processor.py:153} INFO - Started process (PID=1960087) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:38:03,576] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:38:03,577] {logging_mixin.py:115} INFO - [2024-02-25 20:38:03,577] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:38:03,596] {logging_mixin.py:115} INFO - [2024-02-25 20:38:03,594] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:38:03,597] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:38:03,620] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.057 seconds
+[2024-02-25 20:38:37,347] {processor.py:153} INFO - Started process (PID=1960424) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:38:37,353] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:38:37,353] {logging_mixin.py:115} INFO - [2024-02-25 20:38:37,353] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:38:37,358] {logging_mixin.py:115} INFO - [2024-02-25 20:38:37,358] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:38:37,358] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:38:37,376] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.031 seconds
+[2024-02-25 20:39:11,555] {processor.py:153} INFO - Started process (PID=1960780) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:39:11,556] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:39:11,558] {logging_mixin.py:115} INFO - [2024-02-25 20:39:11,557] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:39:11,571] {logging_mixin.py:115} INFO - [2024-02-25 20:39:11,570] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:39:11,572] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:39:11,591] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.041 seconds
+[2024-02-25 20:39:41,968] {processor.py:153} INFO - Started process (PID=1961091) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:39:41,974] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:39:41,975] {logging_mixin.py:115} INFO - [2024-02-25 20:39:41,975] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:39:41,991] {logging_mixin.py:115} INFO - [2024-02-25 20:39:41,990] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:39:41,992] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:39:42,017] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.055 seconds
+[2024-02-25 20:40:13,913] {processor.py:153} INFO - Started process (PID=1961431) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:40:13,915] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:40:13,916] {logging_mixin.py:115} INFO - [2024-02-25 20:40:13,916] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:40:13,934] {logging_mixin.py:115} INFO - [2024-02-25 20:40:13,932] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:40:13,934] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:40:13,956] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.049 seconds
+[2024-02-25 20:40:47,103] {processor.py:153} INFO - Started process (PID=1961763) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:40:47,104] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:40:47,105] {logging_mixin.py:115} INFO - [2024-02-25 20:40:47,105] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:40:47,122] {logging_mixin.py:115} INFO - [2024-02-25 20:40:47,121] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:40:47,122] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:40:47,143] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.047 seconds
+[2024-02-25 20:41:18,962] {processor.py:153} INFO - Started process (PID=1962098) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:41:18,969] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:41:18,970] {logging_mixin.py:115} INFO - [2024-02-25 20:41:18,970] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:41:18,988] {logging_mixin.py:115} INFO - [2024-02-25 20:41:18,986] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:41:18,988] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:41:19,012] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.056 seconds
+[2024-02-25 20:41:49,841] {processor.py:153} INFO - Started process (PID=1962441) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:41:49,842] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:41:49,843] {logging_mixin.py:115} INFO - [2024-02-25 20:41:49,843] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:41:49,859] {logging_mixin.py:115} INFO - [2024-02-25 20:41:49,858] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:41:49,860] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:41:49,881] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.047 seconds
+[2024-02-25 20:42:26,506] {processor.py:153} INFO - Started process (PID=1962817) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:42:26,512] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:42:26,513] {logging_mixin.py:115} INFO - [2024-02-25 20:42:26,513] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:42:26,530] {logging_mixin.py:115} INFO - [2024-02-25 20:42:26,529] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:42:26,531] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:42:26,553] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.053 seconds
+[2024-02-25 20:43:00,159] {processor.py:153} INFO - Started process (PID=1963167) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:43:00,160] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:43:00,161] {logging_mixin.py:115} INFO - [2024-02-25 20:43:00,161] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:43:00,177] {logging_mixin.py:115} INFO - [2024-02-25 20:43:00,176] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:43:00,178] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:43:00,202] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.050 seconds
+[2024-02-25 20:43:31,587] {processor.py:153} INFO - Started process (PID=1963479) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:43:31,594] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:43:31,595] {logging_mixin.py:115} INFO - [2024-02-25 20:43:31,595] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:43:31,614] {logging_mixin.py:115} INFO - [2024-02-25 20:43:31,613] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:43:31,615] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:43:31,638] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.057 seconds
+[2024-02-25 20:44:03,765] {processor.py:153} INFO - Started process (PID=1963818) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:44:03,772] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:44:03,773] {logging_mixin.py:115} INFO - [2024-02-25 20:44:03,773] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:44:03,792] {logging_mixin.py:115} INFO - [2024-02-25 20:44:03,791] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:44:03,793] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:44:03,823] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.064 seconds
+[2024-02-25 20:44:39,733] {processor.py:153} INFO - Started process (PID=1964183) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:44:39,739] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:44:39,739] {logging_mixin.py:115} INFO - [2024-02-25 20:44:39,739] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:44:39,745] {logging_mixin.py:115} INFO - [2024-02-25 20:44:39,745] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:44:39,746] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:44:39,763] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.031 seconds
+[2024-02-25 20:45:15,039] {processor.py:153} INFO - Started process (PID=1964549) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:45:15,040] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:45:15,041] {logging_mixin.py:115} INFO - [2024-02-25 20:45:15,040] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:45:15,048] {logging_mixin.py:115} INFO - [2024-02-25 20:45:15,048] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:45:15,049] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:45:15,067] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.030 seconds
+[2024-02-25 20:45:48,253] {processor.py:153} INFO - Started process (PID=1964891) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:45:48,258] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:45:48,259] {logging_mixin.py:115} INFO - [2024-02-25 20:45:48,259] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:45:48,267] {logging_mixin.py:115} INFO - [2024-02-25 20:45:48,266] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:45:48,268] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:45:48,289] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.040 seconds
+[2024-02-25 20:46:22,631] {processor.py:153} INFO - Started process (PID=1965241) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:46:22,637] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:46:22,638] {logging_mixin.py:115} INFO - [2024-02-25 20:46:22,638] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:46:22,657] {logging_mixin.py:115} INFO - [2024-02-25 20:46:22,656] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:46:22,658] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:46:22,680] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.056 seconds
+[2024-02-25 20:46:56,729] {processor.py:153} INFO - Started process (PID=1965639) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:46:56,730] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:46:56,731] {logging_mixin.py:115} INFO - [2024-02-25 20:46:56,731] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:46:56,747] {logging_mixin.py:115} INFO - [2024-02-25 20:46:56,746] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:46:56,748] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:46:56,769] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.045 seconds
+[2024-02-25 20:47:28,217] {processor.py:153} INFO - Started process (PID=1966123) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:47:28,223] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:47:28,223] {logging_mixin.py:115} INFO - [2024-02-25 20:47:28,223] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:47:28,232] {logging_mixin.py:115} INFO - [2024-02-25 20:47:28,231] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:47:28,232] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:47:28,251] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.040 seconds
+[2024-02-25 20:48:03,353] {processor.py:153} INFO - Started process (PID=1966655) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:48:03,359] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:48:03,360] {logging_mixin.py:115} INFO - [2024-02-25 20:48:03,360] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:48:03,377] {logging_mixin.py:115} INFO - [2024-02-25 20:48:03,375] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:48:03,378] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:48:03,400] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.053 seconds
+[2024-02-25 20:48:37,904] {processor.py:153} INFO - Started process (PID=1967113) to work on /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:48:37,907] {processor.py:641} INFO - Processing file /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2024-02-25 20:48:37,908] {logging_mixin.py:115} INFO - [2024-02-25 20:48:37,908] {dagbag.py:507} INFO - Filling up the DagBag from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:48:37,913] {logging_mixin.py:115} INFO - [2024-02-25 20:48:37,912] {dagbag.py:320} ERROR - Failed to import: /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/home/sheyla/Documents/Repositórios/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-02-25 20:48:37,914] {processor.py:653} WARNING - No viable dags retrieved from /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py
+[2024-02-25 20:48:37,930] {processor.py:161} INFO - Processing /home/sheyla/Documents/Repositórios/airflowalura/dags/dados_climaticos.py took 0.028 seconds
